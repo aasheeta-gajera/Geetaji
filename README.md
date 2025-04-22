@@ -17,9 +17,9 @@
 ## 🖼️ Preview
 
 ### 📱 Mobile App Screenshots
-![Web Home](https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/home.png)
-![Shloka View](https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/Shlokas.png)
-![Favorite View](https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/fav.png)
+![Mobile Home](https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/Apphome.jpeg)
+![Shloka View](https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/AppShlokas.jpeg)
+![Favorite View](https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/AppFav.jpeg)
 
 ## 🔧 Tech Stack
 
