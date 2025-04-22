@@ -18,12 +18,11 @@
 
 ### 📱 Mobile App Screenshots
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/Apphome.jpeg" alt="Mobile Home" width="500" height="400"/>
-  <img src="https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/AppShlokas.jpeg" alt="Shloka View" width="500" height="400"/>
-  <img src="https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/AppFav.jpeg" alt="Favorite View" width="500" height="400"/>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/Apphome.jpeg" alt="Mobile Home" width="300"/>
+  <img src="https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/AppShlokas.jpeg" alt="Shloka View" width="300"/>
+  <img src="https://github.com/aasheeta-gajera/GeetajiAspDotnet/raw/main/wwwroot/Assets/AppFav.jpeg" alt="Favorite View" width="300"/>
 </div>
-
 
 ## 🔧 Tech Stack
 
